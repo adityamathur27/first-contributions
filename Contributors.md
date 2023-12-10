@@ -11,6 +11,7 @@ sara
 - [Aritra Karmakar](https://github.com/Dark-Knight-Avi)
 - [Jose Rubio](https://github.com/josrubfer)
 - [Muhammed Labeeb U](https://github.com/Ladoxer)
+- [Aditya Mathur](https://github.com/adityamathur27)
 - [Vimal Manoharan](https://github.com/vimal004)
 - Ryan Chan
 - Kartikey Srivastava
